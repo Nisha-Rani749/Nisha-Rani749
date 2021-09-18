@@ -6,10 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-rani749" alt="nisha-rani749" /></a> </p>
 
-- 🔭 My Major Projects: [Todo-Mern Application](https://github.com/Nisha-Rani749/crud2)
+- 🔭 My Major Projects:
+     [Todo-App](https://github.com/Nisha-Rani749/crud2)
                     
 - 🌱 I’m currently learning **Python**
-  <h4>Other Skills </h4>
+  
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nisha-Rani749/](https://github.com/Nisha-Rani749/)
