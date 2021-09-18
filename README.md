@@ -7,10 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-rani749" alt="nisha-rani749" /></a> </p>
 
 - 🔭 My Major Projects: [Todo-Mern Application](https://github.com/Nisha-Rani749/crud2)
-      Blog-cms:                  [Blog-cms](https://github.com/Nisha-Rani749/blog_cms)
-                         [Notes-App](https://github.com/Nisha-Rani749/NewsApp)
-                         [WeatherApp](https://github.com/Nisha-Rani749/weatherapp)
-
+                    
 - 🌱 I’m currently learning **Python**
 
 
