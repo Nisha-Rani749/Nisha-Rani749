@@ -9,7 +9,7 @@
 - 🔭 My Major Projects: [Todo-Mern Application](https://github.com/Nisha-Rani749/crud2)
                     
 - 🌱 I’m currently learning **Python**
-
+  <h4>Other Skills </h4>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nisha-Rani749/](https://github.com/Nisha-Rani749/)
