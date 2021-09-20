@@ -7,7 +7,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-rani749" alt="nisha-rani749" /></a> </p>
 
 - 🔭 My Major Projects:
-     [crud2](https://github.com/Nisha-Rani749/crud2)
+    * Weather-App - React app to get weather of all cities [WeatherApp](https://git.heroku.com/weatherappproje.git)
+    * News-App - React app to get top 10 hacker rank news and their comments [NewsApp](https://git.heroku.com/newsapppro.git)
                     
 - 🌱 I’m currently learning **Python**
   
