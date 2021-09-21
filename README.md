@@ -9,6 +9,7 @@
 - 🔭 My Major Projects:
     * Weather-App - React app to get weather of all cities [WeatherApp](https://weatherappproje.herokuapp.com/)
     * News-App - React app to get top 10 hacker rank news and their comments [NewsApp](https://newsapppro.herokuapp.com/)
+    * Notes-App - MERN app to make notes which have all crud operations [NotesApp]( https://note-app-projects.herokuapp.com/)
                     
 - 🌱 I’m currently learning **Python**
   
