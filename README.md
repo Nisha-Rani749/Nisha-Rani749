@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-rani749" alt="nisha-rani749" /></a> </p>
 
 - 🔭 My Major Projects:
-    * Weather-App - React app to get weather of all cities [WeatherApp](https://weatherappproje.herokuapp.com/)
-    * News-App - React app to get top 10 hacker rank news and their comments [NewsApp](https://newsapppro.herokuapp.com/)
-    * Notes-App - MERN app to make notes which have all crud operations [NotesApp]( https://note-app-projects.herokuapp.com/)
+    * WeatherApp - React app to get weather of all cities [WeatherApp](https://weatherappproje.herokuapp.com/)
+    * NewsApp - React app to get top 10 hacker rank news and their comments [NewsApp](https://newsapppro.herokuapp.com/)
+    * Crud2 -  Simple TODOAPP using MERN in which we can perform CRUD operation[CRUD]
                     
 - 🌱 I’m currently learning **Python**
   
